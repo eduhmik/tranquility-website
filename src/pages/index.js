@@ -51,16 +51,16 @@ class HomeIndex extends React.Component {
             <article style={{ backgroundImage: `url(${pic02})` }}>
               <header className="major">
                 <h3 style={{ fontSize: 50 }}>Versatile</h3>
-                <p style={{ fontSize: 20 }}>Gauge 28 KES 700</p>
-                <p style={{ fontSize: 20 }}>Gauge 30 KES 580</p>
+                <p style={{ color: 'black', fontSize: 20 }}>Gauge 28 KES 700</p>
+                <p style={{ color: 'black', fontSize: 20 }}>Gauge 30 KES 580</p>
               </header>
               <Link to="/landing" className="link primary"></Link>
             </article>
             <article style={{ backgroundImage: `url(${pic03})` }}>
               <header className="major">
                 <h3 style={{ fontSize: 50 }}>Curved Tile</h3>
-                <p style={{ fontSize: 20 }}>Gauge 28 KES 700</p>
-                <p style={{ fontSize: 20 }}>Gauge 30 KES 580</p>
+                <p style={{ color: 'black', fontSize: 20 }}>Gauge 28 KES 700</p>
+                <p style={{ color: 'black', fontSize: 20 }}>Gauge 30 KES 580</p>
               </header>
               <Link to="/landing" className="link primary"></Link>
             </article>
